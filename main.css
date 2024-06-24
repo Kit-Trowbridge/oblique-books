@@ -1,6 +1,8 @@
 
 body {
+    display: block;
     font-family: "Garamond", "Georgia", serif;
+    color: #222222;
 }
 
 img {
