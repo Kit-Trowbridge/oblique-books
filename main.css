@@ -30,3 +30,11 @@ a {
 a:hover {
     color: rgb(173, 161, 157);
 }
+
+#email::after {
+    content: "Contact";
+}
+
+#email:hover::after {
+    content: "boothphilip3@gmail.com";
+}
